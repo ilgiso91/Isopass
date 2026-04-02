@@ -9,7 +9,7 @@ Isopass is designed as a lightweight, beginner-friendly, and portfolio-ready pro
 - 🔑 **Master Password Protection**  
   - First run: You set a master password  
   - Next runs: Master password is validated  
-  - Stored as SHA-256 hash (`master.hash`)
+  Stored as SHA-256 hash (`master.hash`)
 
 - 🔐 **AES Encryption**  
   - All passwords are encrypted before being saved  
