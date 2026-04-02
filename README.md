@@ -1,3 +1,6 @@
+<img width="1871" height="1027" alt="image" src="https://github.com/user-attachments/assets/54139fa8-03e3-417f-858b-407abc5aa1ea" />
+
+
 # Isopass 🔐  
 A simple and secure **C# console-based password manager** that encrypts all stored passwords using **AES encryption**.  
 Isopass is designed as a lightweight, beginner-friendly, and portfolio-ready project.
