@@ -1,5 +1,9 @@
-<img width="1871" height="1027" alt="image" src="https://github.com/user-attachments/assets/54139fa8-03e3-417f-858b-407abc5aa1ea" />
+<p align="center">
+  <img src="https://github.com/ilgiso91/Isopass/blob/master/mavi.png" width="200" alt="ISO Pass Logo">
+</p>
 
+# ISO Pass
+Simple C# console password manager with AES encryption.
 
 # Isopass 🔐  
 A simple and secure **C# console-based password manager** that encrypts all stored passwords using **AES encryption**.  
